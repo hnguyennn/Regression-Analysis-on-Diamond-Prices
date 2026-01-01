@@ -1,4 +1,4 @@
-# PSTAT 126 - Regression Analysis Final Project, Spring 2025
+# Regression Analysis on Diamond Prices | Regression Analysis, Spring 2025
 
 ## Overview
 This project was completed as part of the PSTAT 126 course at University of California, Santa Barbara, taught by Professor Puja Pandey. The goal of this project was to 
